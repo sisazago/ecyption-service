@@ -54,7 +54,7 @@ Este valor se encuentra en la base de datos *yp_bbva_colombia_cde_tv* en la tabl
 y repesenta el valor de la columna *key*
 
 #### Input KEK iv
-ste valor se encuentra en la base de datos *yp_bbva_colombia_cde_tv* en la tabla *yp_kek*
+Este valor se encuentra en la base de datos *yp_bbva_colombia_cde_tv* en la tabla *yp_kek*
 y repesenta el valor de la columna *iv*
 
 Al finalizar el proceso de desencrición, este retornara el valor original de la llave.
